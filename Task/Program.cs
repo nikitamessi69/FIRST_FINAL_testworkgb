@@ -8,7 +8,6 @@
 ["Russia", "Denmark", "Kazan"] -> []
 */
 
-
 string[] array = { "hello", "2", "world", ":-)", "1234", "1567",
 "-2", "computer science", "Russia", "Denmark", "Kazan" };
 
